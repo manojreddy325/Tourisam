@@ -1,0 +1,139 @@
+.holidays-nav-container{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center;
+    /* padding:10px; */
+    background-image: url('/src/assets/holiday.jpg');
+    /* filter: brightness(80%) saturate(0.6); */
+    height:100vh;
+    background-size: cover;
+    top: 0;
+    padding:1px;
+}
+
+.holidays-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:60%;
+    /* margin-top:150px; */
+}
+
+.holidays-nav-container-items{
+    color: #cc0066;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  border-bottom: none;
+  padding: 10px;
+}
+.holidays-nav-container-items:hover {
+    color: #ffffff;
+    /* color: #ff0000; */
+  }
+.choose-your-container{
+    padding-top: 90px;
+    /* margin:5px; */
+}
+.holidays-heading{
+    color:#cc0066;
+    font-size: 62px;
+    font-weight: bold;
+    font-family: 'Bahnschrift SemiBold';
+}
+.holidays-des{
+    color:#ffffff;
+    /* color: #ac00e6; */
+    font-size: 32px;
+    font-weight: bold;
+    font-family: 'Bahnschrift SemiBold';
+}
+.choose-heading{
+    font-size: 38px;
+    font-family: 'Lucida Bright';
+}
+.vecations-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 90px; 
+}
+.vecations-image{
+    height:500px;
+    width:700px;
+    margin-right: 10px;
+}
+.vecations-description-container{
+    padding:10px;
+    margin-left: 30px;
+}
+.vecations-heading {
+    font-size: 38px;
+    font-family: 'Lucida Bright';
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  
+.vecations-description {
+    font-size: 18px;
+    color: #505050;
+    font-family: 'Century Gothic';
+    line-height: 1.5;
+    margin-bottom: 15px;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+.vecations-specialties{
+    font-size: 24px;
+    /* color:#e0e0eb; */
+    /* color:lightslategray; */
+    color:#808080;
+    font-family: 'Lucida Bright';
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.vecations-specialties-des{
+    font-size: 18px;
+    font-family: 'Century Gothic';
+    color: #505050;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.celabrations-image{
+    height:500px;
+    width:700px;
+    margin-left: 10px;
+}
+.celabrations-description-container{
+    padding:10px;
+    margin-right: 30px;
+}
+.our-question-heading{
+    font-size: 32px;
+    font-family: 'Perpetua';
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.get-sarted-button{
+    background-color: #006699;
+    border:none;
+    padding:15px;
+    border-radius: 15px;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Lucida Bright';
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 20px;
+}

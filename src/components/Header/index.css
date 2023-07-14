@@ -1,0 +1,28 @@
+/* Navbar.css */
+nav {
+  position: sticky;
+  top: 0;
+  /* background-color: #ffffff;
+  padding: 10px; */
+  /* Add other styles as needed */
+}
+
+.nav-list-container{
+    display: flex;
+    background-color: #202020;
+    list-style: none;
+    margin:0px;
+    padding:22px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    justify-content: space-between;
+}
+.nav-items:hover {
+    color: #cc0066;
+  }
+
+  .nav-items{
+    text-decoration: none;
+    color: #ffffff;
+  }

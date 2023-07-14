@@ -1,0 +1,59 @@
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: #202020;
+    color: #ffffff;
+    padding:20px;
+}
+.contact-info-container{
+    padding: 10px;
+}
+.contact-info-heading{
+    font-family: 'Lucida Bright';
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.contact-info-des{
+    /* font-family: 'Mongolian Baiti'; */
+    font-size: 16px;
+    text-align: center;
+    padding:8px;
+}
+.horizontal-line{
+   border: 0.1px solid #595959;
+   width:190%;
+   /* text-align:left; */
+   /* margin-left:0 */
+}
+.phone-icons{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin: 10px;
+    text-align: center;
+    padding:15px;
+}
+.all-rights{
+  display: flex;
+  flex-direction: row;
+  color: #ababab;
+  margin: 12px;
+  padding-left: 10px;
+}
+.copyright-container{
+    background-color: #000000;
+    color: #595959;
+    padding:12px;
+    text-align: center;
+}
+.copygight-heading{
+    color: #ababab;
+    font-size: 16px;
+    font-family: 'Century Gothic';
+}
+.payment-icons{
+    height:45px;
+    width:45px;
+    margin:5px;
+}
